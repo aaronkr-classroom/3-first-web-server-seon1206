@@ -16,7 +16,7 @@ const routeRespMap = {
 };
 
 // listing5.5.js에서 (p. 96)
-const port = 3000,
+const port = 3001,
     http = require('http'),
     httpStatus = require('http-status-codes'),
     app = http.createServer();
